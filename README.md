@@ -2,7 +2,7 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://morlee.github.io/yObywatel
+https://more.github.io/yObywatel
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
