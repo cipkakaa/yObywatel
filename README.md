@@ -2,7 +2,7 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://more.github.io/yObywatel
+https://cipka.github.io/yObywatel
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
